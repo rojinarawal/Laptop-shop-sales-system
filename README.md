@@ -1,0 +1,1 @@
+An application to manage laptop shop operations, including inventory management, order processing, sales tracking, and data storage. Bills are printed based on quantity and price, and stock is updated accordingly.
