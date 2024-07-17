@@ -1,0 +1,5 @@
+Razer Blade,Razer,$2000,935,i7 7th Gen,GTX 3060,256 GB
+MacBook Air,Apple,$1180,0,i7 9th Gen,Integrated,512 GB
+HP Pavilion,HP,$1040,310,i7 11th Gen,Integrated,512 GB
+Acer Nitro 5,Acer,$3000,333,i7 11th Gen,RTX 3050,512 GB
+Lenovo G50,Lenovo,$1500,11,i5 8th Gen,Intel 4400,256 GB
